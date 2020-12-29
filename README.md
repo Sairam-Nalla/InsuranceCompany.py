@@ -1,1 +1,1 @@
-# InsuranceCompany.py
+Used Python programming to immitate a insurance company. The program uses OOP to create user accounts that contains their first name, last name, coverage plan, and a unique ID. The program stores all of the account objects in a list and when user wishes to view their account detail or wants to see how much is covered from copay the program retrieves the account detail via the ID given.
